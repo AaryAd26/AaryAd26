@@ -27,11 +27,14 @@
 ---
 
 ### 📌 Featured Projects
-- 🔹 **90 Days of DevOps** – Daily hands-on DevOps journey
-- 🔹 **Shell Scripts Automation** – Log rotation, backups & cron jobs
-- 🔹 **Docker 3-Tier Banking App** – Multi-container setup using Docker Compose
-- 🔹 **DevOps Notes Repository** – Structured Linux, Git & Docker notes
+- 🔹 [90 Days of DevOps](https://github.com/AaryAd26/90DaysOfDevOps)  
+  Structured daily DevOps learning challenge.
 
+- 🔹 [Shell Scripts Automation](https://github.com/AaryAd26/shell-scripts)  
+  Log rotation, backups & cron-based automation.
+
+- 🔹 [NGINX DevOps Demo](https://github.com/AaryAd26/devops-nginx-demo)  
+  Practical NGINX deployment & configuration.
 ---
 
 ### 📈 GitHub Stats

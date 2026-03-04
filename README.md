@@ -1,16 +1,53 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Aary Deshpande</h1>
+<h3 align="center">Aspiring DevOps Engineer from India 🇮🇳</h3>
 
-<!--
-**AaryAd26/AaryAd26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🔥 Currently doing **90 Days of DevOps**
+- 🐧 Strong foundation in Linux & Networking
+- ⚙️ Building real-world automation projects
+- 🐳 Working with containers & CI/CD pipelines
+- 🎯 Goal: Become a skilled DevOps Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+
+#### 💻 Core Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,bash,python,docker" />
+</p>
+
+#### ☁️ DevOps & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,jenkins" />
+</p>
+
+---
+
+### 📌 Featured Projects
+- 🔹 **90 Days of DevOps** – Daily hands-on DevOps journey
+- 🔹 **Shell Scripts Automation** – Log rotation, backups & cron jobs
+- 🔹 **Docker 3-Tier Banking App** – Multi-container setup using Docker Compose
+- 🔹 **DevOps Notes Repository** – Structured Linux, Git & Docker notes
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/aary-deshpande-534813224/
+- 📧 Email: aarydeshpande1254@gmail.com
+
+---
+
+### ⚡ DevOps Mindset
+> Automate everything.  
+> Learn continuously.  
+> Deploy with confidence.

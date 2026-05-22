@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aary Deshpande</h1>
-<h3 align="center">Aspiring DevOps Engineer from India 🇮🇳</h3>
+<h3 align="center"> DevOps Engineer 🇮🇳</h3>
 
 ---
 
